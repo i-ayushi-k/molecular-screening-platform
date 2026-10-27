@@ -1,0 +1,7 @@
+# Repo owners (test plan TBD-P5): all three members.
+# Replace the placeholders with the real GitHub usernames, keeping the @ sign.
+# Every file lists all three owners, so whoever is NOT the author can satisfy
+# "Require review from Code Owners". Do not list only one owner per folder:
+# a sole owner cannot approve their own PR and the PR would be stuck.
+
+* @i-ayushi-k @Ande Lakshmi Nishitha @abheetha16
