@@ -13,3 +13,5 @@ Web app for preliminary computational screening of molecules with ML, DL and QML
 
 ## Team workflow
 See CONTRIBUTING.md.
+
+workflow check 
